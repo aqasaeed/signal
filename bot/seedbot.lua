@@ -236,6 +236,7 @@ Our Channel : @signal_robot
 Admins
 @Wolfsm [Sudo]
 Special thanks to </dev> : @blackhacker666
+http://uupload.ir/files/rdty_photo_2016-02-26_10-09-49.jpg
 ]],
     help_text_realm = [[
 Realm Commands:
