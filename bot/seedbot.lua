@@ -227,15 +227,15 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {146340607},--Sudo users
+    sudo_users = {146340607,89655129},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[SPARTACUS Robot Ver 3.7
-AntispamBot : @tele_sparta
-Our Channel : @sparta_antispam
+    about_text = [[SignalBot Robot Ver 3.7
+AntispamBot : @ir_signal
+Our Channel : @signal_robot
 Admins
-@blackhacker666 [Developer]
-http://uupload.ir/files/mxct_tele_spartacus.jpg
+@Wolfsm [Sudo]
+Special thanks to </dev> : @blackhacker666
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -402,7 +402,7 @@ This command will send text to [group_id]
 !banlist
 
 🌀 تکرار متن مورد نظر شما
-!echo [متن]
+بگو متن
 
 🃏 ساخت متن نوشته
 !tex [متن]
@@ -423,7 +423,7 @@ This command will send text to [group_id]
 !feedback [متن پیام]
 
 💬 توضيحات ضد اسپم
-!spartacus
+!signalbot
 
 💬 راهنمای ربات (همین متن)
 !help
